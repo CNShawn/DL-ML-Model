@@ -1,2 +1,3 @@
 # DL-ML-Model
-the classic model of Deep Learning or Machine Learning implemented by pytorch
+the classic methods of Deep Learning or Machine Learning implemented by Python
+And __WELCOME to subscribe__ my Wechat Official account __'EF实验室'__
